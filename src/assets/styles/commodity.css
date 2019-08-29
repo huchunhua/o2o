@@ -1,0 +1,184 @@
+p {
+    margin: 0px;
+  }
+  .coupon {
+    /* width: 1000px; */
+    height: 103px;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    /* overflow-x:scroll; */
+    background-color: white;
+    /* box-sizing: border-box; */
+  }
+  .van-tabs__line {
+    background-color: #fdc21e !important;
+  }
+  #tabs >>> .van-tabs__wrap {
+    z-index: 10;
+    width: 200px;
+  }
+  #tabs >>> .van-sidebar-item--select {
+    border-color: white;
+  }
+  .coupon2 {
+    width: 162px;
+    height: 63px;
+    background-image: url(../../assets/images/o2o/bg_coupon_youhui.png);
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-right: 10px;
+  }
+  .nav {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+  }
+  .returnImg {
+    width: 19px;
+    height: 19px;
+    margin-top: 8px;
+  }
+  .navInput {
+    width: 276px;
+    height: 30px;
+    margin-left: 10px;
+  }
+  .van-search {
+    padding: 0px;
+    border-radius: 50%;
+  }
+  .van-search__content {
+    border-radius: 20px;
+  }
+  .shoucang {
+    width: 22px;
+    height: 22px;
+    margin-top: 7px;
+    margin-left: 15px;
+  }
+  .shop {
+    width: 100%;
+    height: 167px;
+    padding-top: 35px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    box-sizing: border-box;
+    background-color: white;
+  }
+  .shopName {
+    display: flex;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ffececec;
+  }
+  .address {
+    display: flex;
+    justify-content: space-between;
+  }
+  .plus {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fdc21e;
+    background-color: #fdc21e;
+    border-radius: 50%;
+    font-size: 22px;
+    color: white;
+  }
+  .minus {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fdc21e;
+    border-radius: 50%;
+    font-size: 40px;
+    color: #fdc21e;
+    margin-right: 10px;
+    display: block;
+  }
+  .minus1 {
+    display: none;
+  }
+  .number {
+    padding-bottom: 1px;
+    margin-right: 10px;
+    display: block;
+  }
+  .number1 {
+    display: none;
+  }
+  .goods {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .footer {
+    width: 100%;
+    height: 44px;
+    background-color: #333333;
+    position: fixed;
+    bottom: 0;
+    z-index: 3000;
+    display: flex;
+    justify-content: space-between;
+  }
+  .payment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 44px;
+    background-color: rgb(204, 204, 204);
+    color: white;
+  }
+  .payment1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 44px;
+    background-color: #fdc21e;
+  }
+  .price {
+    color: white;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 16px;
+  }
+  .count {
+    width: 14px;
+    height: 14px;
+    border: 1px solid #eb503b;
+    border-radius: 50%;
+    color: white;
+    background-color: #eb503b;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -17%;
+    left: 13%;
+  }
+  .count1 {
+    display: none;
+  }
+  .gouwuche1{
+    margin-left:15px;
+    margin-top:-6px;
+    width:42px;
+    height:45px;
+    background-image:url(../images/o2o/pic_bag_black_wps图片.png)
+  }
+  .gouwuche{
+    margin-left:15px;
+    margin-top:-6px;
+    width:42px;
+    height:45px;
+    background-image:url(../images/o2o/pic_box_color _wps图片.png)
+  }

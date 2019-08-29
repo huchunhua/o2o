@@ -1,0 +1,14 @@
+body {
+    background: #ededed;
+}
+.main-container {
+    padding-top: 46px;
+}
+.van-nav-bar .van-nav-bar__left .van-icon-arrow-left{
+    font-size: 20px;
+    color: #666;
+}
+.van-index-anchor {
+    background: #eee;
+    line-height: 46px;
+}
